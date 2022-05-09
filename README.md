@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SirPuffingTon
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning HTML/CSS/C++/C#/Python/Lua.
+- 💞️ I’m looking to collaborate on anything coding (ex. helping make a website as I self learned HTML, i'm currently working on Python and C#)
+- 📫 How to reach me The Trap#9931 on discord, or Throwawayforpixelart@gmail.com
